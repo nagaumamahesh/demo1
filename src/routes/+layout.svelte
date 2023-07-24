@@ -1,6 +1,6 @@
 <script>
 
-  import "../app.css";
+  import "../app.css"
   import { Navbar, NavBrand, NavLi, NavUl, NavHamburger, Avatar, Dropdown, DropdownItem, DropdownHeader, DropdownDivider } from 'flowbite-svelte'
   import { GradientButton } from 'flowbite-svelte';
 
